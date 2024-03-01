@@ -3,10 +3,7 @@
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
-    "repository": {
-    "type": "git",
-    "url": "git@github.com:app-toolkit/JSON-handle.git"
-  },
+  "repository": "https://github.com/app-toolkit/JSON-handle.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
